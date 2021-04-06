@@ -1,2 +1,2 @@
-# jakhiswapnil
+# MiniProject
 First Repository on GitHub
