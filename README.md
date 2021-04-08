@@ -1,2 +1,2 @@
 # MiniProject
-First Repository on GitHub
+First Project on GitHub
