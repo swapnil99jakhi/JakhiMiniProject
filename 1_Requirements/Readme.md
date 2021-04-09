@@ -56,7 +56,7 @@
 | ------ | --------- | ------ | ----- |
 | LR01 | The system will be ask the user his/her choice of country out of the fifteen countries specified| HR01 | TBD-S1 |
 | LR02 | Upon giving the input from the user, the system will look for the country in the data| HR02 | TBD-S1 |
-| LR03 | If the country is not in the given fifteen countries, it will output a message "Please write one of the above country specified| HR02 | TBD-S1 |
+| LR03 | If the country is not in the given fifteen countries, it will output a message "Please write one of the above country specified"| HR02 | TBD-S1 |
 | LR04 | Receiving the correct input, the program will give standard time of a city in that country | HR02 | TBD-S1 |
 | LR05 |Moreover, the currency as well as currency conversion rate will be specified | HR02 | TBD-S1 |
 
