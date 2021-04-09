@@ -24,6 +24,23 @@
 * The system consists of two programs to calculate current time of the given fifteen countries and their currencies as well as their conversion rate with respect to the Indian Rupee. The user can input his choice of country from the given fifteen countries and get the expected output.
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic)
+# 4W&#39;s and 1&#39;H
+
+## Who:
+* The system is designed for anyone who is interested in finding the current time of their choice of country and it's currency and currency rate.
+
+## What:
+* The system is clock display time zones and currency converter.
+
+## When:
+* Started in April 2021.
+
+## Where:
+* It will work on OS platforms.
+
+## How:
+* It will use the source code from the two programs which will take the input as the user's country.
+
 
 
 
