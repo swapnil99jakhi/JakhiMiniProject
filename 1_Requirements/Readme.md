@@ -50,6 +50,17 @@
 | HR01 | User shall be able to give input | Techincal | TBD-S1 | 
 | HR02 | Desired output should be given will proper format| Techincal | TBD-S1 |
 
+## Low level Requirements:
+| ID | Description | HLR ID | Status (Implemented/Future) |
+| ------ | --------- | ------ | ----- |
+| LR01 | The system will be ask user his choice of country out of the fifteen country specified| HR01 | TBD-S1 |
+| LR02 | Upon giving the input from the user, the system will look for the country in the data| HR02 | TBD-S1 |
+| LR03 | If the country is not in the given fifteen countries, it will output a message "Please write one of the above country specified| HR02 | TBD-S1 |
+| LR04 | Receiving the correct input, the program will give standard time of a city in that country | HR02 | TBD-S1 |
+| LR05 |Moreover, the currency as well as currency conversion rate will be specified | HR02 | FUTURE |
+
+
+
 
 
 
