@@ -9,6 +9,8 @@
 ### Currency Converter
 * A currency converter is software code that is designed to convert one currency into another in order to check its corresponding value. Currency converters aim to maintain real-time information on current market or bank exchange rates, so that the calculated result changes whenever the value of either of the component currencies does. They do so by connecting to a database of current currency exchange rates.
 * For example, if an Indian student is about to relocate to the United States of America (USA) for education, then he or she would be looking up for the conversion values on an international currency converter. He or she would check for the conversion of the amount, which includes tuition fee, living expenses, among other things. This would help them in readying themselves so that they can purchase the correct values of forex in the form of cash or credit card.
+![image](https://user-images.githubusercontent.com/80448432/114195080-c75a4900-996d-11eb-9c6d-f640c7519c07.png)
+
 
 
 
