@@ -35,10 +35,10 @@
 * The system is clock display time zones and currency converter.
 
 ## When:
-* Started in April 2021.
+* It cam be used whenever user is in necessity of finding another country's time and its currency rate for his/her use. 
 
 ## Where:
-* It will work on OS platforms.
+* It will work on all OS platforms.
 
 ## How:
 * It will use the source code from the two programs which will take the input as the user's country.
