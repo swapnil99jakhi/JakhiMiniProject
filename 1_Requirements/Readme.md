@@ -16,6 +16,14 @@
 * For example, if an Indian student is about to relocate to the United States of America (USA) for education, then he or she would be looking up for the conversion values on an international currency converter. He or she would check for the conversion of the amount, which includes tuition fee, living expenses, among other things. This would help them in readying themselves so that they can purchase the correct values of forex in the form of cash or credit card.
 
 ![image](https://user-images.githubusercontent.com/80448432/114195080-c75a4900-996d-11eb-9c6d-f640c7519c07.png)
+## Cost and Features
+| Time | Features | Cost |
+| ---- | -------- | ---- |
+|15 hr | analyzer | Zero |
+## Defining our System
+* The system consists of two programs to calculate current time of the given fifteen countries and their currencies as well as their conversion rate with respect to the Indian Rupee. The user can input his choice of country from the given fifteen countries and get the expected output.
+## SWOT ANALYSIS
+![SWOT-Sample](Link to Pic)
 
 
 
