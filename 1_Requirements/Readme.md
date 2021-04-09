@@ -43,6 +43,13 @@
 ## How:
 * It will use the source code from the two programs which will take the input as the user's country.
 
+# Detail requirements
+## High Level Requirements:
+| ID | Description | Category | Status | 
+| ----- | ----- | ------- | ---------|
+| HR01 | User shall be able to give input | Techincal | TBD-S1 | 
+| HR02 | Desired output should be given will proper format| Techincal | TBD-S1 |
+
 
 
 
