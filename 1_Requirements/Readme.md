@@ -19,11 +19,13 @@
 ## Cost and Features
 | Time | Features | Cost |
 | ---- | -------- | ---- |
-|15 hr | analyzer | Zero |
+|15 hr | Time Display & Converter| Zero |
 ## Defining our System
 * The system consists of two programs to calculate current time of the given fifteen countries and their currencies as well as their conversion rate with respect to the Indian Rupee. The user can input his choice of country from the given fifteen countries and get the expected output.
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+
+![image](https://user-images.githubusercontent.com/80448432/114222792-a523f380-998c-11eb-83c8-cb471b57f573.png)
+
 # 4W&#39;s and 1&#39;H
 
 ## Who:
