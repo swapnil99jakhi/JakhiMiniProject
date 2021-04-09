@@ -5,8 +5,11 @@
 * Imagine if the entire Earth had a single time zone. Noon would be the middle of the day in some places, but it would be morning, evening, and the middle of the night in others. Since different parts of Earth enter and exit daylight at different times, we need different time zones.
 * As Earth rotates on its axis, it moves about 15 degrees every 60 minutes. After 24 hours, it has completed a full rotation of 360 degrees. The scientists used this information to divide the planet into 24 sections or time zones. Each time zone is 15 degrees of longitude wide.
 * The imaginary dividing lines begin at Greenwich, a suburb of London. The primary dividing line of longitude is called the prime meridian.The time at Greenwich is called Greenwich Mean Time (GMT). As you move west from Greenwich, every 15-degree section or time zone is an hour earlier than GMT, while each time zone to the east is an hour later.
-### Currency Converter
-
-
 ![image](https://user-images.githubusercontent.com/80448432/114149261-58163200-9938-11eb-8184-c915bc3b70c2.png)
+### Currency Converter
+* A currency converter is software code that is designed to convert one currency into another in order to check its corresponding value. Currency converters aim to maintain real-time information on current market or bank exchange rates, so that the calculated result changes whenever the value of either of the component currencies does. They do so by connecting to a database of current currency exchange rates.
+* For example, if an Indian student is about to relocate to the United States of America (USA) for education, then he or she would be looking up for the conversion values on an international currency converter. He or she would check for the conversion of the amount, which includes tuition fee, living expenses, among other things. This would help them in readying themselves so that they can purchase the correct values of forex in the form of cash or credit card.
+
+
+
 
