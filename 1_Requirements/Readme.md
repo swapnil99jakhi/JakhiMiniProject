@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
-* There will be fifteen countries which will be displayed to the user. The user needs to choose his/her choice of country and that country's current time using the time zone code and the currency of that country and rate with respect to the Indian Rupee using the currency convert code will be displayed. 
+* There will be eighteen cities which will be displayed to the user. The user needs to choose his/her choice of country and that city's current time using the time zone code and the currency of that city and rate with respect to the Indian Rupee using the currency convert code will be displayed. 
 * This topic was chosen by me because I want to offer an easy solution to user to find their country's current time and currency rate with respect to their home country.
 
 ## Research
@@ -21,7 +21,7 @@
 | ---- | -------- | ---- |
 |15 hr | Time Display & Converter| Zero |
 ## Defining our System
-* The system consists of two programs to calculate current time of the given fifteen countries and their currencies as well as their conversion rate with respect to the Indian Rupee. The user can input his choice of country from the given fifteen countries and get the expected output.
+* The system consists of two programs to calculate current time of the given eighteen cities and their currencies as well as their conversion rate with respect to the Indian Rupee. The user can input his choice of city from the given eighteen cities and get the expected output.
 
 ## SWOT ANALYSIS
 
@@ -36,7 +36,7 @@
 * The system is clock display time zones and currency converter.
 
 ## When:
-* It cam be used whenever user is in necessity of finding another country's time and its currency rate for his/her use. 
+* It cam be used whenever user is in necessity of finding another city's time and its currency rate for his/her use. 
 
 ## Where:
 * It will work on all OS platforms.
@@ -54,10 +54,10 @@
 ## Low level Requirements:
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
-| LR01 | The system will be ask the user his/her choice of country out of the fifteen countries specified| HR01 | TBD-S1 |
-| LR02 | Upon giving the input from the user, the system will look for the country in the data| HR02 | TBD-S1 |
-| LR03 | If the country is not in the given fifteen countries, it will output a message "Please write one of the above country specified"| HR02 | TBD-S1 |
-| LR04 | Receiving the correct input, the program will give standard time of a city in that country | HR02 | TBD-S1 |
+| LR01 | The system will be ask the user his/her choice of city out of the eighteen cities specified| HR01 | TBD-S1 |
+| LR02 | Upon giving the input from the user, the system will look for the city in the data| HR02 | TBD-S1 |
+| LR03 | If the city is not in the given eighteen cities, it will output a message "Please select one of the above city specified"| HR02 | TBD-S1 |
+| LR04 | Receiving the correct input, the program will give standard time of a city  | HR02 | TBD-S1 |
 | LR05 |Moreover, the currency as well as currency conversion rate will be specified | HR02 | TBD-S1 |
 
 
