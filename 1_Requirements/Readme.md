@@ -42,7 +42,7 @@
 * It will work on all OS platforms.
 
 ## How:
-* It will use the source code from the two programs which will take the input as the user's country.
+* It will use the source code from the two programs which will take the input as the user's city.
 
 # Detail requirements
 ## High Level Requirements:
