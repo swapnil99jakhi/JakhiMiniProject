@@ -58,11 +58,3 @@
 | LR03 | If the city is not in the given eighteen cities, it will output a message "Please select one of the above city specified"| HR02 | TBD-S1 |
 | LR04 | Receiving the correct input, the program will give standard time of a city  | HR02 | TBD-S1 |
 | LR05 |Moreover, the currency as well as currency conversion rate will be specified | HR02 | TBD-S1 |
-
-
-
-
-
-
-
-
