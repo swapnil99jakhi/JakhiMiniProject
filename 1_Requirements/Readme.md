@@ -12,8 +12,8 @@
 
 ![image](https://user-images.githubusercontent.com/80448432/114149261-58163200-9938-11eb-8184-c915bc3b70c2.png)
 ### Currency Converter
-* A currency converter is a software code that is designed to convert one currency into another in order to check its corresponding value. Currency converters aim to maintain real-time information on current market or bank exchange rates, so that the calculated result changes whenever the value of either of the component currencies does. They do so by connecting to a database of current currency exchange rates.
-* For example, if an Indian student is about to relocate to the United States of America (USA) for education, then he or she would be looking up for the conversion values on an international currency converter. He or she would check for the conversion of the amount, which includes tuition fee, living expenses, among other things. This would help them in readying themselves so that they can purchase the correct values of forex in the form of cash or credit card.
+*     A currency converter is a software code that is designed to convert one currency into another in order to check its corresponding value. Currency converters aim to maintain real-time information on current market or bank exchange rates, so that the calculated result changes whenever the value of either of the component currencies does. They do so by connecting to a database of current currency exchange rates.
+*     For example, if an Indian student is about to relocate to the United States of America (USA) for education, then he or she would be looking up for the conversion values on an international currency converter. He or she would check for the conversion of the amount, which includes tuition fee, living expenses, among other things. This would help them in readying themselves so that they can purchase the correct values of forex in the form of cash or credit card.
 
 ![image](https://user-images.githubusercontent.com/80448432/114195080-c75a4900-996d-11eb-9c6d-f640c7519c07.png)
 ## Cost and Features
@@ -21,7 +21,7 @@
 | ---- | -------- | ---- |
 |15 hr | Time Display & Converter| Zero |
 ## Defining our System
-* The system consists of two programs to calculate current time of the given eighteen cities and their currencies as well as their conversion rate with respect to the Indian Rupee. The user can input his choice of city from the given eighteen cities and get the expected output.
+*     The system consists of two programs to calculate current time of the given eighteen cities and their currencies as well as their conversion rate with respect to the Indian Rupee. The user can input his choice of city from the given eighteen cities and get the expected output.
 
 ## SWOT ANALYSIS
 
@@ -30,19 +30,19 @@
 # 4W&#39;s and 1&#39;H
 
 ## Who:
-* The system is designed for anyone who is interested in finding the current time of their choice of country and it's currency and currency rate.
+*     The system is designed for anyone who is interested in finding the current time of their choice of country and it's currency and currency rate.
 
 ## What:
-* The system is clock display time zones and currency converter.
+*     The system is clock display time zones and currency converter.
 
 ## When:
-* It cam be used whenever user is in necessity of finding another city's time and its currency rate for his/her use. 
+*     It cam be used whenever user is in necessity of finding another city's time and its currency rate for his/her use. 
 
 ## Where:
-* It will work on all OS platforms.
+*     It will work on all OS platforms.
 
 ## How:
-* It will use the source code from the two programs which will take the input as the user's city.
+*     It will use the source code from the two programs which will take the input as the user's city.
 
 # Detail requirements
 ## High Level Requirements:
