@@ -29,16 +29,16 @@
 
 # 4W&#39;s and 1&#39;H
 
-## Who:
+## Who
 *     The system is designed for anyone who is interested in finding the current time of their choice of country and it's currency and currency rate.
 
-## What:
+## What
 *     The system is clock display time zones and currency converter.
 
-## When:
+## When
 *     It cam be used whenever user is in necessity of finding another city's time and its currency rate for his/her use. 
 
-## Where:
+## Where
 *     It will work on all OS platforms.
 
 ## How:
