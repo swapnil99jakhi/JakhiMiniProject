@@ -7,11 +7,7 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 |---------|--------------|-----------|------------------
 [![C/C++ CI](https://github.com/swapnil99jakhi/MiniProject_LTTS/actions/workflows/C-build.yml/badge.svg)](https://github.com/swapnil99jakhi/MiniProject_LTTS/actions/workflows/C-build.yml)|[![Static Check](https://github.com/swapnil99jakhi/MiniProject_LTTS/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/swapnil99jakhi/MiniProject_LTTS/actions/workflows/cppcheck.yml)  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/21c5cae1b5844158b9eb3d4c80125c89)](https://app.codacy.com/gh/swapnil99jakhi/MiniProject_LTTS/dashboard?branch=main=Badge_Grade) |To be added | [![git inspector CI](https://github.com/swapnil99jakhi/MiniProject_LTTS/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/swapnil99jakhi/MiniProject_LTTS/actions/workflows/gitinspector.yml)
 
-
-
-
-
-##  Folder Structure
+## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
 `1_Requirements`   | Documents detailing requirements and research
@@ -25,8 +21,7 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 -------|---------|----------------|----------------|---------------|-------------|--------------
 `260009` | Swapnil Jakhi  | Feature A, B etc    | X No     | X No   |X No   |X No     
    
-
-##  Challenges Faced and How Was It Overcome
+## Challenges Faced and How Was It Overcome
 
 1.  ABC
 2.  BCD
