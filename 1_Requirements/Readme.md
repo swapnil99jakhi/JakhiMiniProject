@@ -30,19 +30,19 @@
 # 4W&#39;s and 1&#39;H
 
 ## Who
-*     The system is designed for anyone who is interested in finding the current time of their choice of country and it's currency and currency rate.
+*   The system is designed for anyone who is interested in finding the current time of their choice of country and it's currency and currency rate.
 
 ## What
-*     The system is clock display time zones and currency converter.
+*   The system is clock display time zones and currency converter.
 
 ## When
-*     It cam be used whenever user is in necessity of finding another city's time and its currency rate for his/her use. 
+*   It cam be used whenever user is in necessity of finding another city's time and its currency rate for his/her use. 
 
 ## Where
-*     It will work on all OS platforms.
+*   It will work on all OS platforms.
 
 ## How
-*     It will use the source code from the two programs which will take the input as the user's city.
+*   It will use the source code from the two programs which will take the input as the user's city.
 
 # RequirementDetails
 ## High Level Requirements
