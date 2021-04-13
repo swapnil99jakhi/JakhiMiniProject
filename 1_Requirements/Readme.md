@@ -44,14 +44,14 @@
 ## How
 *     It will use the source code from the two programs which will take the input as the user's city.
 
-#  Requirements
-## High Level Requirements:
+# RequirementDetails
+## High Level Requirements
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
 | HR01 | User shall be able to give input | Techincal | TBD-S1 | 
 | HR02 | Desired output should be given will proper format| Techincal | TBD-S1 |
 
-## Low level Requirements:
+## Low level Requirements
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
 | LR01 | The system will be ask the user his/her choice of city out of the eighteen cities specified| HR01 | TBD-S1 |
