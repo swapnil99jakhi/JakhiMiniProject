@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
-* There will be eighteen cities which will be displayed to the user. The user needs to choose his/her choice of country and that city's current time using the time zone code and the currency of that city and rate with respect to the Indian Rupee using the currency convert code will be displayed. 
+*   There will be eighteen cities which will be displayed to the user. The user needs to choose his/her choice of country and that city's current time using the time zone code and the currency of that city and rate with respect to the Indian Rupee using the currency convert code will be displayed. 
 *   This topic was chosen by me because I want to offer an easy solution to user to find their country's current time and currency rate with respect to their home country.
 
 ## Research
@@ -12,8 +12,8 @@
 
 ![image](https://user-images.githubusercontent.com/80448432/114149261-58163200-9938-11eb-8184-c915bc3b70c2.png)
 ### Currency Converter
-*     A currency converter is a software code that is designed to convert one currency into another in order to check its corresponding value. Currency converters aim to maintain real-time information on current market or bank exchange rates, so that the calculated result changes whenever the value of either of the component currencies does. They do so by connecting to a database of current currency exchange rates.
-*  For example, if an Indian student is about to relocate to the United States of America (USA) for education, then he or she would be looking up for the conversion values on an international currency converter. He or she would check for the conversion of the amount, which includes tuition fee, living expenses, among other things. This would help them in readying themselves so that they can purchase the correct values of forex in the form of cash or credit card.
+*   A currency converter is a software code that is designed to convert one currency into another in order to check its corresponding value. Currency converters aim to maintain real-time information on current market or bank exchange rates, so that the calculated result changes whenever the value of either of the component currencies does. They do so by connecting to a database of current currency exchange rates.
+*   For example, if an Indian student is about to relocate to the United States of America (USA) for education, then he or she would be looking up for the conversion values on an international currency converter. He or she would check for the conversion of the amount, which includes tuition fee, living expenses, among other things. This would help them in readying themselves so that they can purchase the correct values of forex in the form of cash or credit card.
 
 ![image](https://user-images.githubusercontent.com/80448432/114195080-c75a4900-996d-11eb-9c6d-f640c7519c07.png)
 ## Cost and Features
@@ -21,7 +21,7 @@
 | ---- | -------- | ---- |
 |15 hr | Time Display & Converter| Zero |
 ## Defining our System
-*  The system consists of two programs to calculate current time of the given eighteen cities and their currencies as well as their conversion rate with respect to the Indian Rupee. The user can input his choice of city from the given eighteen cities and get the expected output.
+*   The system consists of two programs to calculate current time of the given eighteen cities and their currencies as well as their conversion rate with respect to the Indian Rupee. The user can input his choice of city from the given eighteen cities and get the expected output.
 
 ## SWOT ANALYSIS
 
