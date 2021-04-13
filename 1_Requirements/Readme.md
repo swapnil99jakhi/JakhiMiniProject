@@ -27,7 +27,7 @@
 
 ![image](https://user-images.githubusercontent.com/80448432/114222792-a523f380-998c-11eb-83c8-cb471b57f573.png)
 
-# 4W&#39;s and 1&#39;H
+## 4W&#39;s and 1&#39;H
 
 ## Who
 *   The system is designed for anyone who is interested in finding the current time of their choice of country and it's currency and currency rate.
@@ -44,7 +44,6 @@
 ## How
 *   It will use the source code from the two programs which will take the input as the user's city.
 
-# RequirementDetails
 ## High Level Requirements
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
