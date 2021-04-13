@@ -11,7 +11,7 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 
 
 
-##Folder Structure
+##  Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
 `1_Requirements`   | Documents detailing requirements and research
@@ -26,7 +26,7 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 `260009` | Swapnil Jakhi  | Feature A, B etc    | X No     | X No   |X No   |X No     
    
 
-##Challenges Faced and How Was It Overcome
+##  Challenges Faced and How Was It Overcome
 
 1.  ABC
 2.  BCD
