@@ -2,9 +2,11 @@
 #include"../unity/unity_internals.h"
 #include"../inc/worldtime.h"
 #include"../inc/currency.h"
+/* Required by the unity test framework */
 void setUp(void)
 {
 }
+/* Required by the unity test framework */
 void tearDown(void)
 {
 }
