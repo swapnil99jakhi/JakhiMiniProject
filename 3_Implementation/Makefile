@@ -7,11 +7,21 @@ BUILD = build
 # All source code files
 SRC = src/worldtime.c\
 src/currency.c\
+src/displaycity.c\
 main.c\
+
+# All test source files
+TEST_SRC = src/worldtime.c\
+src/currency.c\
+src/displaycity.c\
+test/test.c\
+unity/unity.c\
 
 # All include folders with header files
 INC	= inc/worldtime.h\
 inc/currency.h\
+unity/unity.h\
+unity/unity_internals.h\
 
 # Project Output name
 PROJECT_OUTPUT= $(BUILD)/$(PROJECT_NAME).out
