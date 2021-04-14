@@ -23,6 +23,9 @@ inc/currency.h\
 unity/unity.h\
 unity/unity_internals.h\
 
+INC1	= -Iinc\
+-Iunity\
+
 # Project Output name
 PROJECT_OUTPUT= $(BUILD)/$(PROJECT_NAME).out
 
