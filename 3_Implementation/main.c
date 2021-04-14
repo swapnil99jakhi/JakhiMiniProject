@@ -2,5 +2,6 @@
 #include"inc/worldtime.h"
 #include"inc/currency.h"
 int main(){
+    display();
     worldtime();
 }
