@@ -19,7 +19,7 @@ Folder             | Description
 
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`260009` | Swapnil Jakhi  | Feature A, B etc    | X No     | X No   |X No   |X No     
+`260009` | Swapnil Jakhi  | Feature A, B etc    | 0     | 0   | 0   | 1     
    
 ## Challenges Faced and How Was It Overcome
 
