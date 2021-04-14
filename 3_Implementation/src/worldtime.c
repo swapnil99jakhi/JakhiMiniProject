@@ -127,8 +127,14 @@ void worldtime()
         break;
     case 20:
         strcpy(name->city_name,"Alaska");
-        name->hr = (info->tm_hour + ADT);
-        name->min = (info->tm_min);
+        if((info->tm_hour+ADT)%24<0){
+        name->hr=24+(info->tm_hour+ADT);
+        name->min=info->tm_min;
+        }
+        else if((info->tm_hour+ADT)%24>=0){
+        name->hr = info->tm_hour+ADT;
+        name->min = info->tm_min;
+        }
         break;
     default:
         printf("enter correct choice");
