@@ -9,7 +9,8 @@ void worldtime()
     info = gmtime(&rawtime);
     struct city *name,n;
     name=&n;
-    global int c;
+    int c;
+    float d;*find;
     void call(){
     printf("%s %2d:%02d", name->city_name,(name->hr) % 24, name->min);
     if(name->hr>=12 && name->hr<=23){
@@ -18,7 +19,6 @@ void worldtime()
     else{
     printf("am\n");
     }
-    float d;*find;
     printf("How much money you want to convert?\n");
     scanf("%f",&d);
     find=&d;
