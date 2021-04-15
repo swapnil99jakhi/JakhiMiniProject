@@ -18,6 +18,7 @@
  * @param i(city choice)
  * @param k(total rupees)
  */
+void display();
 float currency(int i, float *k);
 /**
  * @struct note
