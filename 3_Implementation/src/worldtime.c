@@ -9,7 +9,7 @@ void worldtime()
     info = gmtime(&rawtime);
     struct city *name,n;
     name=&n;
-    global int c;
+    int c;
     void call(){
     printf("%s %2d:%02d", name->city_name,(name->hr) % 24, name->min);
     if(name->hr>=12 && name->hr<=23){
