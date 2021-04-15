@@ -18,7 +18,7 @@
  * @param i(city choice)
  * @param k(total rupees)
  */
-void currency(int i, float *k);
+float currency(int i, float *k);
 /**
  * @struct note
  * @brief This structure displays the output of the converted currency
