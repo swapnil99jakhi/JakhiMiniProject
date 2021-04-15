@@ -20,6 +20,7 @@ void worldtime();
 /**
  * @brief Standard Time Zone of different cities
  */
+void display();
 #define IST (+5) /**mumbai*/
 #define GST (+4) /**dubai*/
 #define GMT (+0) /**london*/
