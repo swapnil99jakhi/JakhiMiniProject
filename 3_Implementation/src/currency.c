@@ -1,6 +1,6 @@
 #include"../inc/currency.h"
 struct note money;
-float currency(int i,float *k){
+ float currency(int i,float *k){
     switch (i){
         case 1:
         strcpy(money.curr,"Indian Rupee");
