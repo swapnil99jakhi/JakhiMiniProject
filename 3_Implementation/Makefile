@@ -52,7 +52,7 @@ doc:
 	make -C ./documentation
 
 test:$(BUILD)
-	gcc $(TEST_SRC)  -o $(TEST_OUTPUT) $(INCLUDE_LIBS)
+	gcc $(TEST_SRC) $(INC1) -o $(TEST_OUTPUT) $(INCLUDE_LIBS)
 	./$(TEST_OUTPUT)
 
 
