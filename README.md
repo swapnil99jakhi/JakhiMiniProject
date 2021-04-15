@@ -20,7 +20,7 @@ Folder             | Description
 
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`260009` | Swapnil Jakhi  | Feature A, B etc    | 0     | 0   |  1  | 1     
+`260009` | Swapnil Jakhi  | Worldtime display & Currency converter | 0     | 0   |  1  | 1     
 
 
 ## Learning Resources
