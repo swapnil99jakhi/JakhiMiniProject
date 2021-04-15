@@ -23,7 +23,7 @@ inc/currency.h\
 unity/unity.h\
 unity/unity_internals.h\
 
-INC1	= -Iinc\
+INC	= -Iinc\
 -Iunity\
 
 # Project Output name
@@ -46,7 +46,7 @@ run:$(PROJECT_NAME)
 	./$(PROJECT_OUTPUT).out
 
 test:$(BUILD)
-	gcc $(TEST_SRC) $(INC1) -o $(TEST_OUTPUT) $(INCLUDE_LIBS)
+	gcc $(TEST_SRC) $(INC) -o $(TEST_OUTPUT) $(INCLUDE_LIBS)
 	./$(TEST_OUTPUT)
 
 # Document the code using Doxygen
