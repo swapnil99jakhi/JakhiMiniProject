@@ -46,10 +46,6 @@ $(PROJECT_NAME):all
 all: $(SRC) $(BUILD)
 	gcc $(SRC) $(INC) -o $(PROJECT_OUTPUT)
 
-test:$(BUILD)
-	gcc $(TEST_SRC) -o $(TEST_OUTPUT) $(INCLUDE_LIBS)
-	./$(TEST_OUTPUT)
-
 
 # Call `make run` to run the application
 run:$(PROJECT_NAME)
