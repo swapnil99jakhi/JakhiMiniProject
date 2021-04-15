@@ -11,9 +11,7 @@ src/displaycity.c\
 main.c\
 
 # All test source files
-TEST_SRC = src/worldtime.c\
-src/currency.c\
-src/displaycity.c\
+TEST_SRC = src/currency.c\
 test/test.c\
 unity/unity.c\
 
@@ -21,7 +19,7 @@ unity/unity.c\
 INC	= -Iinc\
 -Iunity\
 
-#TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
+TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
 # All include folders with header files
 INC	= inc/worldtime.h\
@@ -47,6 +45,11 @@ $(PROJECT_NAME):all
 
 all: $(SRC) $(BUILD)
 	gcc $(SRC) $(INC) -o $(PROJECT_OUTPUT)
+
+test:$(BUILD)
+	gcc $(TEST_SRC) -o $(TEST_OUTPUT) $(INCLUDE_LIBS)
+	./$(TEST_OUTPUT)
+
 
 # Call `make run` to run the application
 run:$(PROJECT_NAME)
