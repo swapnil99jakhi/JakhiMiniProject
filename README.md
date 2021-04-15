@@ -1,6 +1,6 @@
 # SDLC Activity Based Learning
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option) | Valgrind
+Build | Code Quality | Unity | Git Inspector | Valgrind
 |---------|--------------|-----------|------------------|--------------
 [![C/C++ CI](https://github.com/swapnil99jakhi/MiniProject_LTTS/actions/workflows/C-build.yml/badge.svg)](https://github.com/swapnil99jakhi/MiniProject_LTTS/actions/workflows/C-build.yml)|[![Static Check](https://github.com/swapnil99jakhi/MiniProject_LTTS/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/swapnil99jakhi/MiniProject_LTTS/actions/workflows/cppcheck.yml)  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/21c5cae1b5844158b9eb3d4c80125c89)](https://app.codacy.com/gh/swapnil99jakhi/MiniProject_LTTS/dashboard?branch=main=Badge_Grade) |[![Unit Testing](https://github.com/swapnil99jakhi/MiniProject_LTTS/actions/workflows/UnityTesting.yml/badge.svg)](https://github.com/swapnil99jakhi/MiniProject_LTTS/actions/workflows/UnityTesting.yml) | [![git inspector CI](https://github.com/swapnil99jakhi/MiniProject_LTTS/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/swapnil99jakhi/MiniProject_LTTS/actions/workflows/gitinspector.yml)|[![Valgrind](https://github.com/swapnil99jakhi/MiniProject_LTTS/actions/workflows/ValgrindTest.yml/badge.svg)](https://github.com/swapnil99jakhi/MiniProject_LTTS/actions/workflows/ValgrindTest.yml)|
 
