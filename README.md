@@ -21,13 +21,7 @@ Folder             | Description
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
 `260009` | Swapnil Jakhi  | Feature A, B etc    | 0     | 0   | 0   | 1     
-   
-## Challenges Faced and How Was It Overcome
 
-1.  ABC
-2.  BCD
-3.  ...
-4.  ...
 
 ## Learning Resources
 1.  [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
