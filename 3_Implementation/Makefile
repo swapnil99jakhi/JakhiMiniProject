@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = ARC
+PROJECT_NAME = ARS
 
 # Output directory
 BUILD = build
@@ -21,7 +21,7 @@ unity/unity.c\
 INC	= -Iinc\
 -Iunity\
 
-TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
+#TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
 # All include folders with header files
 INC	= inc/worldtime.h\
