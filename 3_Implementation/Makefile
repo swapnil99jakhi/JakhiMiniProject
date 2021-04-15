@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = ARC
+PROJECT_NAME = ARS
 
 # Output directory
 BUILD = build
