@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = ARS
+PROJECT_NAME = ARC
 
 # Output directory
 BUILD = build
@@ -55,12 +55,6 @@ run:$(PROJECT_NAME)
 # Document the code using Doxygen
 doc:
 	make -C ./documentation
-
-# Build and run the unit tests
-test:$(BUILD)
-	gcc $(TEST_SRC) -o $(TEST_OUTPUT) $(INCLUDE_LIBS)
-	./$(TEST_OUTPUT)
-
 
 
 
