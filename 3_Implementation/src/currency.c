@@ -23,13 +23,13 @@ float currency(int i,float *k){
         break;
         case 5:
         strcpy(money.curr,"American Dollar");
-        printf("%.2f Rupees is equal to %s %.2f\n",*k,money.curr,*(k)/75.0);
-        return *k/75.0;
+        printf("%.2f Rupees is equal to %s %.2f\n",*k,money.curr,*(k)/74.5);
+        return *k/74.5;
         break;
         case 6:
         strcpy(money.curr,"American Dollar");
-        printf("%.2f Rupees is equal to %s %.2f\n",*k,money.curr,*(k)/75.0);
-        return *k/75.0;
+        printf("%.2f Rupees is equal to %s %.2f\n",*k,money.curr,*(k)/74.5);
+        return *k/74.5;
         break;
         case 7:
         strcpy(money.curr,"Singapore Dollar");
