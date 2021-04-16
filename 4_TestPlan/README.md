@@ -14,4 +14,3 @@
 |  L_01       |Return current time of the city with AM/PM|User's input choice |Success|Success|Requirement based |
 |  L_02       |Calculate converted amount in different currency|Amount of Rupees |Success|Success|Requirement based |
 |  L_03       |Print time as well as converted amount|User's input|Success|Success|Requirement based |
-
