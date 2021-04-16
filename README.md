@@ -15,7 +15,7 @@ Folder             | Description
 
 ## Contributors List and Summary
 
-SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No. of Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
 `260009` | Swapnil Jakhi  | Worldtime display & Currency converter |   2   |   2   |  1  |  1     
 
