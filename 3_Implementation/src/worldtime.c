@@ -7,8 +7,8 @@ void worldtime()
     struct tm *info;
     time(&rawtime);
     info = gmtime(&rawtime);
-    struct city *name,n;
-    name=&n;
+    struct city n= {"",0,0};
+    struct city *name=&n;
     int c;
     void call(){
     printf("%s %2d:%02d", name->city_name,(name->hr) % 24, name->min);
