@@ -78,8 +78,8 @@ float currency(int i,float *k){
         break;
         case 16:
         strcpy(money.curr,"American Dollar");
-        printf("%.2f Rupees is equal to %s %.2f\n",*k,money.curr,*(k)/75);
-        return*k/75;
+        printf("%.2f Rupees is equal to %s %.2f\n",*k,money.curr,*(k)/74.5);
+        return*k/74.5;
         break;
         case 17:
         strcpy(money.curr,"New Zealand Dollar");
@@ -98,8 +98,8 @@ float currency(int i,float *k){
         break;
         case 20:
         strcpy(money.curr,"American Dollar");
-        printf("%.2f Rupees is equal to %s %.2f\n",*k,money.curr,*(k)/75);
-        return*k/75;
+        printf("%.2f Rupees is equal to %s %.2f\n",*k,money.curr,*(k)/74.5);
+        return*k/74.5;
         break;
     }
 }
