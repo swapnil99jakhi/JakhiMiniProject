@@ -14,7 +14,7 @@ void test_should_convert(void){
     float rupee=204.2;
     TEST_ASSERT_EQUAL_FLOAT(10,currency(2,&rupee));
     float rupee1=223.5;
-    TEST_ASSERT_EQUAL_FLOAT(3,currency(6,&rupee1));
+    TEST_ASSERT_EQUAL_FLOAT( 3 ,currency(6,&rupee1));
     float rupee2=69;
     TEST_ASSERT_EQUAL_FLOAT(100,currency(8,&rupee2));
     float rupee3=20.60;
